@@ -1,4 +1,4 @@
-% Autor: Adson Filipe Vieira da Silva - 7960922
+% Autor: Adson Filipe Vieira da Silva
 
 -module(omega).
 -export([init/2, send/1, stage1/0, stage2/0, stage3/0, recv/0]).
